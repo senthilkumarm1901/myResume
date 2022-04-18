@@ -7,6 +7,7 @@ line. It is intended to be used for contact details -->
 - +91-984-186-9609
 - <a href="https://github.com/senthilkumarm1901">GitHub</a> 
 - <a href="https://linkedin.com/in/senthilkumarm1901">LinkedIn</a> 
+- <a href="https://senthilkumarm1901.github.io/learn_by_blogging">Blog</a> 
 - Chennai, India
 <hr>
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
