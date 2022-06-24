@@ -14,8 +14,8 @@ line. It is intended to be used for contact details -->
 is intended to be used for a short summary. -->
 - A Data Scientist <br>
     - specialized in building production-grade NLP applications utilizing ML and DL techniques
-	- capable of end-to-end ML project execution 
-	- capable of translating business needs into analytical requirements
+	- capable of co-developing ML applications by following robust coding practices 
+	- who has extensively used state-of-the-art Transfer learning models
 - An aspiring developer who strives to build clean, modular software applications.
 - Total Exp: 12 years; Data Science Exp: 8/12 years
 
@@ -23,29 +23,28 @@ is intended to be used for a short summary. -->
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Lead Data Scientist, Ford, Analytics Team</span> <span>May 2018 -- Present</span>
+### <span>Lead Data Scientist, Ford, Analytics Team</span> <span>May 2018 -- Jun 2022</span>
 
-- Play the role of a hands-on **data science developer** who employs state-of-the-art ML and DL techniques for NLP Applications
-    - for analytics teams such as *AI Advancement Center*, *Customer Experience* and *Manufacturing Operations*
-- Contribute in the end-to-end ML application development 
+- A hands-on **data science developer** who co-developed ML applications with in-company NLP experts from the US
+- Worked for teams such as AI Advancement Center, Customer Experience and Manufacturing Operations
+- I contributed in the end-to-end ML application development 
     - from data acquisition, cleaning, labeling and preprocessing,
-	- to model development, deployment and maintenance
-- **Python Trainer** | **Technical Interviewer** of NLP candidates across analytics teams
+    - to model development, deployment and maintenance
+- A **Python Trainer** and **Technical Interviewer** of NLP candidates across analytics teams
 
-### <span>Assistant Manager, [LatentView Analytics](https://in.linkedin.com/company/latentview-analytics)</span> <span>Apr 2014 -- Apr 2018</span>
+### <span>Assistant Manager, [LatentView Analytics (LV)](https://in.linkedin.com/company/latentview-analytics)</span> <span>Apr 2014 -- Apr 2018</span>
 
 - Roles I played: **Data Scientist**, **Project Delivery Manager**
 - Utilized Python, SQL, ML and NLP Skills to uncover answers from social media text data
 - Accountable for the delivery of Social Media Analytics projects of 8+ members
 - Responsible for project scoping, resource planning and work distribution
-- LinkedIn Recommendation: *"... extraordinary dedication contributed significantly to growing our analytic practice..."* - F100 Tech Client stakeholder
-- LinkedIn Recommendation: *"....Sincere, driven, articulate and utterly committed ... "* - Skip-level Reporting Manager at LatentView
-
-### <span>Senior Consultant, Capgemini, Spend Analytics</span> <span>Jan 2014 -- Apr 2014</span>
+- LinkedIn Recommendations: 
+    - *"... extraordinary dedication contributed significantly to growing our analytic practice..."* - Customer of LV
+    - *"....Sincere, driven, articulate and utterly committed ... "* - Skip-level Reporting Manager at LatentView
 
 ### <span>Lead Analyst, [Beroe Inc](https://in.linkedin.com/company/beroe-inc)</span> <span>Jul 2010 -- Dec 2013 </span>
 - Produce Market Research reports on how to procure indirect spend categories
-- LinkedIn Recommendation: *" ... well organized, innovative ... and always ready to go the extra mile to support the client ..."* - Client Engagement Manager
+- *" ... well organized, innovative ... and always ready to go the extra mile"* - Client Engagement Manager
 
 
 ## Education & Certifications
@@ -106,6 +105,9 @@ LinkedIn Learning (2 courses), Dec'21</small>
 <br>
 <br>
 <br>
+<br>
+<br>
+
 ## Technical Skills
 
 <!DOCTYPE html>
