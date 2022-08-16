@@ -1,0 +1,292 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Senthil Kumar</title>
+<style>
+body {
+    color: #000000;
+    background: #EEEEEE;
+    font: 1.1em "Times New Roman";
+    line-height: 1.2;
+    margin: 40px 0;
+}
+#resume {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 40px 60px;
+    background: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    box-shadow: 2px 2px 4px #AAAAAA;
+    -webkit-box-shadow: 2px 2px 4px #AAAAAA;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 200%;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    border-bottom: 1px solid #000000;
+    text-transform: uppercase;
+    font-size: 130%;
+    margin: 1em 0 0 0;
+    padding: 0;
+}
+h3 {
+    font-size: 100%;
+    margin: 0.8em 0 0.3em 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+p {
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    }
+ul {
+    padding: 0;
+    margin: 0 1.5em;
+    }
+/* ul immediately after h1 = contact list */
+h1 + ul {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    }
+h1 + ul > li {
+    display: inline;
+    white-space: pre;
+    list-style-type: none;
+}
+h1 + ul > li:after {
+    content: "  \2022  ";
+}
+h1 + ul > li:last-child:after {
+    content: "";
+}
+/* p immediately after contact list = summary */
+h1 + ul + p {
+    margin: 1em 0;
+}
+@media print {
+    body {
+        font-size: 10pt;
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+    #resume {
+        margin: 0;
+        padding: 0;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+    /* Make links black in PDF */
+    /* Move this outside the print block to apply this in HTML too */
+    a, a:link, a:visited, a:hover {
+        color: #000000;
+        text-decoration: underline;
+    }
+}
+@page {
+    /* Change margins and paper size of PDF */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
+    size: letter;
+    margin: 0.5in 0.8in;
+}
+@media screen and (max-width: 800px) {
+    body {
+        font-size: 16pt;
+        margin: 0;
+        padding: 0;
+        background: #FFFFFF !important;
+    }
+    #resume {
+        margin: 0;
+        padding: 1em;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+}
+
+</style>
+</head>
+<body>
+<div id="resume">
+<!-- The (first) h1 will be used as the <title> of the HTML page -->
+<h1>Senthil Kumar</h1>
+<!-- The unordered list immediately after the h1 will be formatted on a single
+line. It is intended to be used for contact details -->
+<ul>
+<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#101;&#110;&#116;&#104;&#105;&#108;&#107;&#117;&#109;&#97;&#114;&#46;&#109;&#49;&#57;&#48;&#49;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#115;&#101;&#110;&#116;&#104;&#105;&#108;&#107;&#117;&#109;&#97;&#114;&#46;&#109;&#49;&#57;&#48;&#49;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li>
+<li>+91-984-186-9609</li>
+<li><a href="https://github.com/senthilkumarm1901">GitHub</a></li>
+<li><a href="https://linkedin.com/in/senthilkumarm1901">LinkedIn</a></li>
+<li><a href="https://senthilkumarm1901.github.io/learn_by_blogging">Blog</a></li>
+<li>Chennai, India</li>
+</ul>
+<hr>
+<!-- The paragraph after the h1 and ul and before the first h2 is optional. It
+is intended to be used for a short summary. -->
+<ul>
+<li>A Data Scientist <br><ul>
+<li>specialized in building production-grade NLP applications utilizing ML and DL techniques</li>
+<li>capable of co-developing ML applications by following robust coding practices</li>
+<li>who has extensively used state-of-the-art Transfer learning models</li>
+</ul>
+</li>
+<li>An aspiring software engineer who strives <ul>
+<li>to co-develop clean, modular, tested software applications </li>
+<li>to apply software engineering principles in every datascience/ML effort</li>
+</ul>
+</li>
+<li>Total Exp: 12 years; Data Science Exp: 8/12 years</li>
+</ul>
+<h2>Work Experience</h2>
+<!-- You have to wrap the "left" and "right" half of these headings in spans by
+hand -->
+<h3><span>Senior ML Engineer, Toyota Connected India</span> <span>Jul 2022 &ndash; Present </span></h3>
+<ul>
+<li>Build data pipelines and NLP applications in AWS cloud to aid Connected Car customers by following Agile Scrum methodology </li>
+</ul>
+<h3><span>Lead Data Scientist, Ford, Analytics Team</span> <span>May 2018 &ndash; Jun 2022</span></h3>
+<ul>
+<li>A hands-on <strong>data science developer</strong> who co-developed with NLP experts from the US team</li>
+<li>I contributed in the end-to-end ML application development<ul>
+<li>from data acquisition, cleaning, labeling and preprocessing,</li>
+<li>to model development, deployment and maintenance</li>
+</ul>
+</li>
+<li>A <strong>Python Trainer</strong> and <strong>Technical Interviewer</strong> of NLP candidates across analytics teams</li>
+</ul>
+<h3><span>Assistant Manager, <a href="https://in.linkedin.com/company/latentview-analytics">LatentView Analytics (LV)</a></span> <span>Apr 2014 &ndash; Apr 2018</span></h3>
+<ul>
+<li>Roles I played: <strong>Data Scientist</strong>, <strong>Project Delivery Manager</strong></li>
+<li>Utilized Python, SQL, ML and NLP Skills to uncover answers from social media text data</li>
+<li>Responsible for project scoping and accountable for the delivery of Social Media Analytics projects of 8+ members</li>
+<li>LinkedIn Recommendations: <ul>
+<li><em>&rdquo;&hellip; extraordinary dedication contributed significantly to growing our analytic practice&hellip;&rdquo;</em> - Customer of LV</li>
+<li><em>&rdquo;....Sincere, driven, articulate and utterly committed &hellip; &ldquo;</em> - Skip-level Reporting Manager at LV</li>
+</ul>
+</li>
+</ul>
+<h3><span>Lead Analyst, <a href="https://in.linkedin.com/company/beroe-inc">Beroe Inc</a></span> <span>Jul 2010 &ndash; Dec 2013 </span></h3>
+<ul>
+<li>Produce Market Research reports on how to procure indirect spend categories</li>
+<li><em>&rdquo; &hellip; well organized, innovative &hellip; and always ready to go the extra mile&rdquo;</em> - Client Engagement Manager</li>
+</ul>
+<hr>
+
+<h3>Career Progression &amp; Performance Awards</h3>
+<ul>
+<li><strong>Ford</strong>: Senior Data Scientist to Lead Data Scientist Promotion<ul>
+<li>In Nov&lsquo;2019, after 1.5 years of joining Ford</li>
+</ul>
+</li>
+<li><strong>LatentView</strong>: Senior Analyst to Assistant Manager Promotion <ul>
+<li>In Oct&lsquo;16, after 2.5 years of joining LatentView</li>
+</ul>
+</li>
+<li><strong>Beroe</strong>: Promoted twice in my first company<ul>
+<li>During my 3.5 year stint in Beroe</li>
+</ul>
+</li>
+</ul>
+<hr>
+
+<ul>
+<li><strong>Ford</strong>: Asia-pacific Recognition Award<ul>
+<li>Won in May &lsquo;19 for successful spearheading of a project</li>
+</ul>
+</li>
+<li><strong>LatentView</strong>: Encore Award <ul>
+<li>Won for company-wide best performance for the Jul-Sep 2016 quarter</li>
+</ul>
+</li>
+<li><strong>Beroe</strong>: Knowledge Contributor Awards<ul>
+<li>Won twice for company-wide best performance in Q1 and Q2 calendar year 2013</li>
+</ul>
+</li>
+</ul>
+<h2>Education</h2>
+<ul>
+<li>Bachelors in Engg - Electronics - 8.6 CGPA<ul>
+<li>Madras Institute of Technology, 2006 - 2010</li>
+</ul>
+</li>
+<li>12th Grade - 95% | 10th Grade - 92%<ul>
+<li>State Topper in Physical Science paper, 2006 TN Engineering Entrance Exam</li>
+</ul>
+</li>
+</ul>
+<hr>
+
+<h2>Technical Upskilling</h2>
+<h3>Online Courses</h3>
+<ul>
+<li><a href="https://www.coursera.org/account/accomplishments/specialization/Z9PBLFGG48SM">DeepLearning Specialization(5 courses)</a>, Coursera-Deeplearning.ai, Dec&lsquo;18 - May&lsquo;19</li>
+<li><a href="https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Kaggle_Learn/machine_learning_courses">ML Fundamentals for Structured Data (2 courses)</a>, Kaggle Learn, Jan-Feb&lsquo;22</li>
+<li><a href="https://www.coursera.org/account/accomplishments/certificate/MVJKAKWVLSUD">Applied Text Mining (2 courses)</a>, Coursera-MichiganUniv, Jan&lsquo;18</li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/7WU5RTGFUP59">GCP Big Data &amp; ML Fundamentals</a>, Coursera-Google, Apr&lsquo;21 </li>
+<li><a href="https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Kaggle_Learn/SQL">SQL (GCP BigQuery) Fundamentals</a>, Kaggle Learn, Feb&lsquo;22</li>
+<li><a href="https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Statistics">Probability and Statistics Fundamentals</a>, LinkedIn Learning (2 courses), Dec&lsquo;21</li>
+</ul>
+<hr>
+
+<h3>Skills</h3>
+<ul>
+<li><strong>Languages</strong> <ul>
+<li>Python, SQL(basics), Markdown, Linux Shell (basics)</li>
+</ul>
+</li>
+<li><strong>Python Libraries</strong> (extensive usage) <ul>
+<li>Pandas, SpaCy, Re (Regular Expressions), Transformers, Sklearn, PyTorch</li>
+</ul>
+</li>
+<li><strong>Tools</strong><ul>
+<li>Git, WSL, Docker, Kubernetes, Poetry (Python env), Conda, PyCharm</li>
+</ul>
+</li>
+<li><strong>Python Libraries</strong> (working knowledge)<ul>
+<li>PySpark, FastAPI (REST API), Streamlit (UI), Altair (viz)</li>
+</ul>
+</li>
+</ul>
+<h2>Key Projects</h2>
+<h3>BERT Fine-tuned Aspect-based Sentiment Analysis Pipeline <small><small><a href="https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/asba.md">More Details</a></small></small></h3>
+<ul>
+<li>Built a reusable Sequence Classification ML Pipeline which converts customer comments into trackable Aspect and Sentiment pairs</li>
+<li>The ML Pipeline used BERT-fine-tuning and it helped yeilding 85%+ F1 score with minimal annotated data for more than 25+ classes</li>
+<li>Incorporated easy to use human-in-the-loop annotation and model monitoring scripts</li>
+</ul>
+<hr>
+
+<h3>Personally Identifiable Information (PII) Detection using Named Entity Recognition (NER) <small><small><a href="https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/pii_ner.md">More Details</a></small></small></h3>
+<ul>
+<li>Annonymized PII in text data by building a NER system using <strong>RoBerta Fine-tuned Transformer model</strong></li>
+<li>Bootstrapped the training data using Spacy rules (thus easing the annotation process by not starting labeling from scratch)</li>
+<li>Deployed an asynchronous inference REST API (using FastAPI and K8s) that can be plugged into multiple applications</li>
+</ul>
+<hr>
+
+<h3>NLP Semantic Search Pipeline <small><small><a href="https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/semantic_search.md">More Details</a></small></small></h3>
+<ul>
+<li>Created a &ldquo;digital thread&rdquo; by connecting two automotive domain specific data sources</li>
+<li>The data sources contain technician comments about issues before the launch of a vehicle</li>
+<li>The digital thread was established by assigning NLP-based semantically matching common part descriptions in comments in both datasources</li>
+<li>Purpose: Predict the prominent issues about to occur in a downstream data source by reviewing the issues much earlier in the launch cycle</li>
+</ul>
+<hr>
+
+<h3>Reusable Text Data Clustering Pipeline <small><small><a href="https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/text_clustering.md">More Details</a></small></small></h3>
+<ul>
+<li>Built reusable Text Clustering pipeline with simpler Python APIs for non-NLP analysts</li>
+</ul>
+<hr></div>
+</body>
+</html>
