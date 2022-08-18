@@ -25,10 +25,10 @@ is intended to be used for a short summary. -->
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Senior ML Engineer, Toyota Connected India</span> <span>Jul 2022 -- Present </span>
+### <span>Senior ML Engineer, [Toyota Connected India](https://www.linkedin.com/company/toyota-connected-india-pvt-ltd)</span> <span>Jul 2022 -- Present </span>
 - Build data pipelines and NLP applications in AWS cloud to aid Connected Car customers by following Agile Scrum methodology 
 
-### <span>Lead Data Scientist, Ford, Analytics Team</span> <span>May 2018 -- Jun 2022</span>
+### <span>Lead Data Scientist, [Ford](https://www.linkedin.com/company/toyota-connected-india-pvt-ltd), Analytics Team</span> <span>May 2018 -- Jun 2022</span>
 
 - A hands-on **data science developer** who co-developed with NLP experts from the US team
 - I contributed in the end-to-end ML application development
@@ -88,7 +88,7 @@ hand -->
 - [Applied Text Mining (2 courses)](https://www.coursera.org/account/accomplishments/certificate/MVJKAKWVLSUD), Coursera-MichiganUniv, Jan'18
 - [GCP Big Data & ML Fundamentals](https://www.coursera.org/account/accomplishments/verify/7WU5RTGFUP59), Coursera-Google, Apr'21 
 - [SQL (GCP BigQuery) Fundamentals](https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Kaggle_Learn/SQL), Kaggle Learn, Feb'22
-- [Probability and Statistics Fundamentals](https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Statistics), LinkedIn Learning (2 courses), Dec'21
+- [Probability and Statistics Fundamentals (2 courses)](https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Statistics), LinkedIn Learning, Dec'21
 
 <hr>
 
@@ -96,11 +96,11 @@ hand -->
 ### Skills
 
 - **Languages** 
-    - Python, SQL(basics), Markdown, Linux Shell (basics)
+    - Python, SQL(basics), Markdown, Linux Shell
 - **Python Libraries** (extensive usage) 
     - Pandas, SpaCy, Re (Regular Expressions), Transformers, Sklearn, PyTorch
 - **Tools**
-    - Git, WSL, Docker, Kubernetes, Poetry (Python env), Conda, PyCharm
+    - Git, WSL, Docker, Kubernetes, Conda/Poetry/Pipenv/Pyenv/Venv (Python env management tools), PyCharm/VS Code, AWS Serverless Cloud (basics)
 - **Python Libraries** (working knowledge)
     - PySpark, FastAPI (REST API), Streamlit (UI), Altair (viz)
 
