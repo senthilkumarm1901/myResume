@@ -12,7 +12,7 @@ line. It is intended to be used for contact details -->
 <hr>
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-- A Data Scientist <br>
+- A ML Engineer <br>
     - specialized in building production-grade NLP applications utilizing ML and DL techniques
 	- capable of co-developing ML applications by following robust coding practices
 	- who has extensively used state-of-the-art Transfer learning models
@@ -28,7 +28,7 @@ hand -->
 ### <span>Senior ML Engineer, [Toyota Connected India](https://www.linkedin.com/company/toyota-connected-india-pvt-ltd)</span> <span>Jul 2022 -- Present </span>
 - Build data pipelines and NLP applications in AWS cloud to aid Connected Car customers by following Agile Scrum methodology 
 
-### <span>Lead Data Scientist, [Ford](https://www.linkedin.com/company/toyota-connected-india-pvt-ltd), Analytics Team</span> <span>May 2018 -- Jun 2022</span>
+### <span>Lead Data Scientist, [Ford](https://www.linkedin.com/company/ford-motor-company), Analytics Team</span> <span>May 2018 -- Jun 2022</span>
 
 - A hands-on **data science developer** who co-developed with NLP experts from the US team
 - I contributed in the end-to-end ML application development
@@ -41,9 +41,7 @@ hand -->
 - Roles I played: **Data Scientist**, **Project Delivery Manager**
 - Utilized Python, SQL, ML and NLP Skills to uncover answers from social media text data
 - Responsible for project scoping and accountable for the delivery of Social Media Analytics projects of 8+ members
-- LinkedIn Recommendations: 
-    - *"... extraordinary dedication contributed significantly to growing our analytic practice..."* - Customer of LV
-    - *"....Sincere, driven, articulate and utterly committed ... "* - Skip-level Reporting Manager at LV
+- *"....Sincere, driven, articulate and utterly committed ... "* - Skip-level Reporting Manager at LV
 
 ### <span>Lead Analyst, [Beroe Inc](https://in.linkedin.com/company/beroe-inc)</span> <span>Jul 2010 -- Dec 2013 </span>
 - Produce Market Research reports on how to procure indirect spend categories
@@ -62,14 +60,14 @@ hand -->
 
 <hr>
 
+- **Toyota**: Employee of the month | Hackathon Team Winner
+    - Won in Sep'23, 3 months after joining the company | Part of team that won TCIN Hackcelerate in Mar'23
 - **Ford**: Asia-pacific Recognition Award
     - Won in May '19 for successful spearheading of a project
 - **LatentView**: Encore Award 
     - Won for company-wide best performance for the Jul-Sep 2016 quarter
 - **Beroe**: Knowledge Contributor Awards
     - Won twice for company-wide best performance in Q1 and Q2 calendar year 2013
-
-
 
 ## Education
 
