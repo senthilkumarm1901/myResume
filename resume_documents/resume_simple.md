@@ -19,7 +19,7 @@ is intended to be used for a short summary. -->
 - An aspiring software engineer who strives 
     - to co-develop clean, modular, tested software applications 
     - to apply software engineering principles in every datascience/ML effort
-- Total Exp: 12 years; Data Science Exp: 8/12 years
+- Total Exp: 13 years; Data Science Exp: 9/13 years
 
 ## Work Experience
 
@@ -27,6 +27,7 @@ is intended to be used for a short summary. -->
 hand -->
 ### <span>Senior ML Engineer, [Toyota Connected India](https://www.linkedin.com/company/toyota-connected-india-pvt-ltd)</span> <span>Jul 2022 -- Present </span>
 - Build data pipelines and NLP applications in AWS cloud to aid Connected Car customers by following Agile Scrum methodology 
+- Published [an artile in TCIN medium](https://medium.com/toyota-connected-india/a-gentle-introduction-to-jmespath-an-intuitive-way-to-parse-json-documents-daa6d699467a) and presented a seminar on [Serverless Python App](https://toyota-connected-india.github.io/serverless_nlp_app/notebook/serverless_nlp_python_app_slides.slides.html#/) in PyCon2023 
 
 ### <span>Lead Data Scientist, [Ford](https://www.linkedin.com/company/ford-motor-company), Analytics Team</span> <span>May 2018 -- Jun 2022</span>
 
@@ -34,7 +35,6 @@ hand -->
 - I contributed in the end-to-end ML application development
     - from data acquisition, cleaning, labeling and preprocessing,
     - to model development, deployment and maintenance
-- A **Python Trainer** and **Technical Interviewer** of NLP candidates across analytics teams
 
 ### <span>Assistant Manager, [LatentView Analytics (LV)](https://in.linkedin.com/company/latentview-analytics)</span> <span>Apr 2014 -- Apr 2018</span>
 
