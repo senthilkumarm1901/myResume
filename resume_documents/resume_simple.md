@@ -13,7 +13,7 @@ line. It is intended to be used for contact details -->
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 - A ML Engineer <br>
-    - specialized in building production-grade NLP applications utilizing ML and DL techniques
+    - specialized in building production-grade NLP applications utilizing ML/DL techniques and Generative AI
 	- capable of co-developing ML applications by following robust coding practices
 	- who has extensively used state-of-the-art Transfer learning models
 - An aspiring software engineer who strives 
@@ -27,7 +27,7 @@ is intended to be used for a short summary. -->
 hand -->
 ### <span>Senior ML Engineer, [Toyota Connected India](https://www.linkedin.com/company/toyota-connected-india-pvt-ltd)</span> <span>Jul 2022 -- Present </span>
 - Build data pipelines and NLP applications in AWS cloud to aid Connected Car customers by following Agile Scrum methodology 
-- Published [an artile in TCIN medium](https://medium.com/toyota-connected-india/a-gentle-introduction-to-jmespath-an-intuitive-way-to-parse-json-documents-daa6d699467a) and presented a seminar on [Serverless Python App](https://toyota-connected-india.github.io/serverless_nlp_app/notebook/serverless_nlp_python_app_slides.slides.html#/) in PyCon2023 
+- Published [2 articles in TCIN medium](https://medium.com/@senthilkumar.m1901) and presented a seminar on [Serverless Python App](https://toyota-connected-india.github.io/serverless_nlp_app/notebook/serverless_nlp_python_app_slides.slides.html#/) in PyCon2023 
 
 ### <span>Lead Data Scientist, [Ford](https://www.linkedin.com/company/ford-motor-company), Analytics Team</span> <span>May 2018 -- Jun 2022</span>
 
