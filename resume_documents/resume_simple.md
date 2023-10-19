@@ -13,7 +13,7 @@ line. It is intended to be used for contact details -->
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 - A ML Engineer <br>
-    - specialized in building production-grade NLP applications utilizing ML/DL techniques and Generative AI
+    - specialized in building production-grade NLP applications utilizing ML/DL and Generative AI
 	- capable of co-developing ML applications by following robust coding practices
 	- who has extensively used state-of-the-art Transfer learning models
 - An aspiring software engineer who strives 
@@ -60,14 +60,14 @@ hand -->
 
 <hr>
 
-- **Toyota**: Employee of the month | Hackathon Team Winner
-    - Won in Sep'23, 3 months after joining the company | Part of team that won TCIN Hackcelerate in Mar'23
+- **Toyota**: 
+    - 1/ Employee of the month. Won in Sep'23, 3 months after joining the company
+    - 2/ Hackathon Team Winner. Part of team that won TCIN Hackcelerate in Mar'23
 - **Ford**: Asia-pacific Recognition Award
     - Won in May '19 for successful spearheading of a project
 - **LatentView**: Encore Award 
     - Won for company-wide best performance for the Jul-Sep 2016 quarter
-- **Beroe**: Knowledge Contributor Awards
-    - Won twice for company-wide best performance in Q1 and Q2 calendar year 2013
+- **Beroe**: Knowledge Contributor Awards (Won twice for company-wide best performance in 2013)
 
 ## Education
 
@@ -98,7 +98,7 @@ hand -->
 - **Python Libraries** (extensive usage) 
     - Pandas, SpaCy, Re (Regular Expressions), Transformers, Sklearn, PyTorch
 - **Tools**
-    - Git, WSL, Docker, Kubernetes, Conda/Poetry/Pipenv/Pyenv/Venv (Python env management tools), PyCharm/VS Code, AWS Serverless Cloud (basics)
+    - Git, WSL, Docker, Kubernetes, Conda/Poetry/Pipenv/Pyenv/Venv (Python env management tools), PyCharm/VS Code, AWS Serverless Cloud, AWS CLI, OpenAI, ChatGPT, Prompt Engineering
 - **Python Libraries** (working knowledge)
     - PySpark, FastAPI (REST API), Streamlit (UI), Altair (viz)
 
