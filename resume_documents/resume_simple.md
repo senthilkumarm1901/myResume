@@ -81,6 +81,7 @@ hand -->
 
 ### Online Courses
 
+- [Generative AI with LLMs](https://www.coursera.org/account/accomplishments/certificate/JJT4AJ23TCXH), Coursera-Deeplearning.ai, Nov'23
 - [DeepLearning Specialization(5 courses)](https://www.coursera.org/account/accomplishments/specialization/Z9PBLFGG48SM), Coursera-Deeplearning.ai, Dec'18 - May'19
 - [ML Fundamentals for Structured Data (2 courses)](https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Kaggle_Learn/machine_learning_courses), Kaggle Learn, Jan-Feb'22
 - [Applied Text Mining (2 courses)](https://www.coursera.org/account/accomplishments/certificate/MVJKAKWVLSUD), Coursera-MichiganUniv, Jan'18
