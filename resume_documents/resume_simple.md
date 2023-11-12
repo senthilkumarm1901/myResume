@@ -96,42 +96,52 @@ hand -->
 
 - **Languages** 
     - Python, SQL(basics), Markdown, Linux Shell
-- **Python Libraries** (extensive usage) 
-    - Pandas, SpaCy, Re (Regular Expressions), Transformers, Sklearn, PyTorch
+- **Python Libraries**
+    - Pandas, SpaCy, Re (Regular Expressions), Transformers, Sklearn, PyTorch, OpenAI, LangChain
 - **Tools**
     - Git, WSL, Docker, Kubernetes, Conda/Poetry/Pipenv/Pyenv/Venv (Python env management tools), PyCharm/VS Code, AWS Serverless Cloud, AWS CLI, OpenAI, ChatGPT, Prompt Engineering
-- **Python Libraries** (working knowledge)
-    - PySpark, FastAPI (REST API), Streamlit (UI), Altair (viz)
+
+<hr>
 
 ## Key Projects
 
-### BERT Fine-tuned Aspect-based Sentiment Analysis Pipeline <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/asba.md)</small></small>
+### Speech2Text Application in AWS Cloud Infrastructure | 2022-23
+- Built a ML Pipeline comprising Open Source models converting Call Center audio transcripts to usable insights in dashboard.
+- Deployed deep learning models - PyAnnote (for Speaker Diarization) and OpenAI’s Whisper (for Speech2Text) - via docker containers. 
+- Partnered with DevOps Engineer to scale the dockerized ML portion using AWS EKS. Scaled the rest of the solution using AWS Serverless components
 
-- Built a reusable Sequence Classification ML Pipeline which converts customer comments into trackable Aspect and Sentiment pairs
+<hr>
+
+### Serverless LLM-powered Classification Application | 2023
+- Leveraged OpenAI paid models (such as GPT 3.5Turbo and GPT-4)  to perform hierarchical text classification
+- Utilised AWS Lambda functions to throttle the OpenAI API calls at scale
+
+<hr>
+
+### BERT Fine-tuned Aspect-based Sentiment Analysis Pipeline | 2020-21 <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/asba.md)</small></small>
+
+- Built a Sequence Classification ML Pipeline which converts customer comments into trackable Aspect and Sentiment pairs
 - The ML Pipeline used BERT-fine-tuning and it helped yeilding 85%+ F1 score with minimal annotated data for more than 25+ classes
 - Incorporated easy to use human-in-the-loop annotation and model monitoring scripts
 
 <hr>
 
-### Personally Identifiable Information (PII) Detection using Named Entity Recognition (NER) <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/pii_ner.md)</small></small>
+### Personally Identifiable Information (PII) Detection using Named Entity Recognition (NER) | 2020-21 <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/pii_ner.md)</small></small>
 
 - Annonymized PII in text data by building a NER system using **RoBerta Fine-tuned Transformer model**
 - Bootstrapped the training data using Spacy rules (thus easing the annotation process by not starting labeling from scratch)
-- Deployed an asynchronous inference REST API (using FastAPI and K8s) that can be plugged into multiple applications
 
 <hr>
 
-### NLP Semantic Search Pipeline <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/semantic_search.md)</small></small>
+### NLP Semantic Search Pipeline | 2021-22 <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/semantic_search.md)</small></small>
 
-- Created a "digital thread" by connecting two automotive domain specific data sources
-- The data sources contain technician comments about issues before the launch of a vehicle
-- The digital thread was established by assigning NLP-based semantically matching common part descriptions in comments in both datasources
-- Purpose: Predict the prominent issues about to occur in a downstream data source by reviewing the issues much earlier in the launch cycle
+- Purpose: Predict the prominent issues about to occur in a downstream data source by reviewing the issues much earlier in the automotive launch cycle
+- Created a “digital thread” - a NLP-based semantic similarity matching engine based on automotive part descriptions -  between two automotive domain specific data sources
 
 <hr>
 
-### Reusable Text Data Clustering Pipeline <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/text_clustering.md)</small></small>
+### Learn by Blogging, My Personal Technical Writing Space
 
-- Built reusable Text Clustering pipeline with simpler Python APIs for non-NLP analysts
+- Have been passionately learning and writing about coding, data science and ML since 2020 [here](https://senthilkumarm1901.quarto.pub/learn-by-blogging/). Many of them are detailed long form blog pieces.
 
 <hr>
