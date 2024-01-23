@@ -19,13 +19,13 @@ is intended to be used for a short summary. -->
 - An aspiring software engineer who strives 
     - to co-develop clean, modular, tested software applications 
     - to apply software engineering principles in every datascience/ML effort
-- Total Exp: 13 years; Data Science Exp: 9/13 years
+- Total Exp: 14 years; Data Science Exp: 10/14 years
 
 ## Work Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Senior ML Engineer, [Toyota Connected India](https://www.linkedin.com/company/toyota-connected-india-pvt-ltd)</span> <span>Jul 2022 -- Present </span>
+### <span>Lead ML Engineer, [Toyota Connected India](https://www.linkedin.com/company/toyota-connected-india-pvt-ltd)</span> <span>Jul 2022 -- Present </span>
 - Build data pipelines and NLP applications in AWS cloud to aid Connected Car customers by following Agile Scrum methodology 
 - Published [2 articles in TCIN medium](https://medium.com/@senthilkumar.m1901) and presented a seminar on [Serverless Python App](https://toyota-connected-india.github.io/serverless_nlp_app/notebook/serverless_nlp_python_app_slides.slides.html#/) in PyCon2023 
 
@@ -38,8 +38,7 @@ hand -->
 
 ### <span>Assistant Manager, [LatentView Analytics (LV)](https://in.linkedin.com/company/latentview-analytics)</span> <span>Apr 2014 -- Apr 2018</span>
 
-- Roles I played: **Data Scientist**, **Project Delivery Manager**
-- Utilized Python, SQL, ML and NLP Skills to uncover answers from social media text data
+- Roles I played: **NLP Data Scientist**, **Project Delivery Manager**
 - Responsible for project scoping and accountable for the delivery of Social Media Analytics projects of 8+ members
 - *"....Sincere, driven, articulate and utterly committed ... "* - Skip-level Reporting Manager at LV
 
@@ -51,6 +50,7 @@ hand -->
 
 ### Career Progression & Performance Awards
 
+- **Toyota**: Promoted from Senior ML Engineer to Lead ML Engineer in 1.5 years of joining Toyota
 - **Ford**: Senior Data Scientist to Lead Data Scientist Promotion
     - In Nov'2019, after 1.5 years of joining Ford
 - **LatentView**: Senior Analyst to Assistant Manager Promotion 
