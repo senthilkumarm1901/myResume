@@ -14,8 +14,9 @@ line. It is intended to be used for contact details -->
 <hr>
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-- A ML Engineer specialized in building production-grade NLP and LLM-powered Gen AI applications 
-- An AWS Cloud Engineer with an expertise in Serverless application development and deployment
+- An ML Engineer capable of building NLP applications leveraging deep learning models 
+- An AWS Cloud Engineer specialized in developing & deploying event-driven Serverless architectures
+- (Since mid'23) A GenAI Engineer immersed in the development of LLM api-powered and agentic apps
 - Total Exp: 14 years; Data Science & NLP Exp: 10/14 years; Cloud Engineering: 4/14 years
 
 ## Work Experience
