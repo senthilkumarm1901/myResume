@@ -8,7 +8,9 @@ line. It is intended to be used for contact details -->
 - <a href="https://github.com/senthilkumarm1901">GitHub</a>
 - <a href="https://linkedin.com/in/senthilkumarm1901">LinkedIn</a>
 - <a href="https://senthilkumarm1901.quarto.pub/learn-by-blogging/blog.html">Blog</a>
+- <a href="https://medium.com/@senthilkumar.m1901">Medium</a>
 - Chennai, India
+
 <hr>
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -19,7 +21,7 @@ is intended to be used for a short summary. -->
 - An aspiring software engineer who strives 
     - to co-develop clean, modular, tested software applications 
     - to apply software engineering principles in every datascience/ML effort
-- Total Exp: 14 years; Data Science Exp: 10/14 years
+- Total Exp: 14 years; Data Science & NLP Exp: 10/14 years
 
 ## Work Experience
 
@@ -27,7 +29,7 @@ is intended to be used for a short summary. -->
 hand -->
 ### <span>Lead ML Engineer, [Toyota Connected India](https://www.linkedin.com/company/toyota-connected-india-pvt-ltd)</span> <span>Jul 2022 -- Present </span>
 - Build data pipelines and NLP applications in AWS cloud to aid Connected Car customers by following Agile Scrum methodology 
-- Published [2 articles in TCIN medium](https://medium.com/@senthilkumar.m1901) and presented a seminar on [Serverless Python App](https://toyota-connected-india.github.io/serverless_nlp_app/notebook/serverless_nlp_python_app_slides.slides.html#/) in PyCon2023 
+- Published [4 articles in TCIN medium](https://medium.com/@senthilkumar.m1901) and presented a seminar on [Serverless Python App](https://toyota-connected-india.github.io/serverless_nlp_app/notebook/serverless_nlp_python_app_slides.slides.html#/) in PyCon2023 
 
 ### <span>Lead Data Scientist, [Ford](https://www.linkedin.com/company/ford-motor-company), Analytics Team</span> <span>May 2018 -- Jun 2022</span>
 
@@ -80,14 +82,13 @@ hand -->
 ## Technical Upskilling
 
 ### Online Courses
-
+- [DevOps on AWS Specialization(4 courses)](https://www.coursera.org/account/accomplishments/specialization/8C4UT7FUAZET), Coursera-AWS, Oct'24
 - [Generative AI with LLMs](https://www.coursera.org/account/accomplishments/certificate/JJT4AJ23TCXH), Coursera-Deeplearning.ai, Nov'23
 - [DeepLearning Specialization(5 courses)](https://www.coursera.org/account/accomplishments/specialization/Z9PBLFGG48SM), Coursera-Deeplearning.ai, Dec'18 - May'19
 - [ML Fundamentals for Structured Data (2 courses)](https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Kaggle_Learn/machine_learning_courses), Kaggle Learn, Jan-Feb'22
 - [Applied Text Mining (2 courses)](https://www.coursera.org/account/accomplishments/certificate/MVJKAKWVLSUD), Coursera-MichiganUniv, Jan'18
 - [GCP Big Data & ML Fundamentals](https://www.coursera.org/account/accomplishments/verify/7WU5RTGFUP59), Coursera-Google, Apr'21 
 - [SQL (GCP BigQuery) Fundamentals](https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Kaggle_Learn/SQL), Kaggle Learn, Feb'22
-- [Probability and Statistics Fundamentals (2 courses)](https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Statistics), LinkedIn Learning, Dec'21
 
 <hr>
 
@@ -95,53 +96,56 @@ hand -->
 ### Skills
 
 - **Languages** 
-    - Python, SQL(basics), Markdown, Linux Shell
+    - Python, SQL(basics), Markdown, Bash/Shell Scripting
 - **Python Libraries**
     - Pandas, SpaCy, Re (Regular Expressions), Transformers, Sklearn, PyTorch, OpenAI, LangChain
 - **Tools**
-    - Git, WSL, Docker, Kubernetes, Conda/Poetry/Pipenv/Pyenv/Venv (Python env management tools), PyCharm/VS Code, AWS Serverless Cloud, AWS CLI, OpenAI, ChatGPT, Prompt Engineering
+    - Git,AWS CLI, Docker, Pipenv (& other Python env management tools), AWS Serverless, OpenAI, ChatGPT, Prompt Engineering
 
 <hr>
 
 ## Key Projects
 
-### Speech2Text Application in AWS Cloud Infrastructure | 2022-23
-- Built a ML Pipeline comprising Open Source models converting Call Center audio transcripts to usable insights in dashboard.
-- Deployed deep learning models - PyAnnote (for Speaker Diarization) and OpenAI’s Whisper (for Speech2Text) - via docker containers. 
-- Partnered with DevOps Engineer to scale the dockerized ML portion using AWS EKS. Scaled the rest of the solution using AWS Serverless components
+### A Platform with a suite of GenAI Products - X (name withheld) - in AWS | 2024
+
+- Led and worked in a team that built a suite of products in a common platform - X - to unlock actionable intelligence from any text data 
+    - xWorkFlow - A Workflow Automation Tool with a robust YAML-based prompt engineering system for LLM Chaining in workflows
+    - xGPT - An Answer Engine for securely interacting with customer data
+    - xAgentChat - A Multi Agent Chat Application armed with access to tools like Calendars and Dealer Systems
 
 <hr>
 
 ### Serverless LLM-powered Classification Application | 2023
-- Leveraged OpenAI paid models (such as GPT 3.5Turbo and GPT-4)  to perform hierarchical text classification
+- Leveraged OpenAI paid models (such as GPT-4)  to perform hierarchical text classification
 - Utilised AWS Lambda functions to throttle the OpenAI API calls at scale
+
+<hr>
+
+### Contact Center Dashboard - A Speech2Text Dashboard Application in AWS | 2022-23
+- Built a ML Pipeline comprising Open Source models converting Call Center audio transcripts to usable insights in dashboard.
 
 <hr>
 
 ### BERT Fine-tuned Aspect-based Sentiment Analysis Pipeline | 2020-21 <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/asba.md)</small></small>
 
 - Built a Sequence Classification ML Pipeline which converts customer comments into trackable Aspect and Sentiment pairs
-- The ML Pipeline used BERT-fine-tuning and it helped yeilding 85%+ F1 score with minimal annotated data for more than 25+ classes
-- Incorporated easy to use human-in-the-loop annotation and model monitoring scripts
 
 <hr>
 
 ### Personally Identifiable Information (PII) Detection using Named Entity Recognition (NER) | 2020-21 <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/pii_ner.md)</small></small>
 
 - Annonymized PII in text data by building a NER system using **RoBerta Fine-tuned Transformer model**
-- Bootstrapped the training data using Spacy rules (thus easing the annotation process by not starting labeling from scratch)
 
 <hr>
 
-### NLP Semantic Search Pipeline | 2021-22 <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/semantic_search.md)</small></small>
+### NLP Semantic Similarity Engine | 2021-22 <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/semantic_search.md)</small></small>
 
-- Purpose: Predict the prominent issues about to occur in a downstream data source by reviewing the issues much earlier in the automotive launch cycle
 - Created a “digital thread” - a NLP-based semantic similarity matching engine based on automotive part descriptions -  between two automotive domain specific data sources
 
 <hr>
 
-### Learn by Blogging, My Personal Technical Writing Space
+### Learn by Blogging, My Personal Technical Writing Space <small><small>[More Details](https://senthilkumarm1901.quarto.pub/learn-by-blogging/)</small></small>
 
-- Have been passionately learning and writing about coding, data science and ML since 2020 [here](https://senthilkumarm1901.quarto.pub/learn-by-blogging/). Many of them are detailed long form blog pieces.
+- Have been passionately learning and writing about coding, data science and ML since 2020 [here](https://senthilkumarm1901.quarto.pub/learn-by-blogging/). Many of the 30 articles here are detailed long form blog pieces.
 
 <hr>
