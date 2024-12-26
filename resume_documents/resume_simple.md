@@ -16,7 +16,7 @@ line. It is intended to be used for contact details -->
 is intended to be used for a short summary. -->
 - An ML Engineer capable of building NLP applications leveraging deep learning models 
 - An AWS Cloud Engineer specialized in developing & deploying event-driven Serverless architectures
-- (Since mid'23) A GenAI Engineer immersed in the development of LLM api-powered and agentic apps
+- A Generative AI Engineer immersed in the development of agentic apps and LLM api-powered products
 - Total Exp: 14 years; Data Science & NLP Exp: 10/14 years; Cloud Engineering: 4/14 years
 
 ## Work Experience
@@ -62,12 +62,8 @@ hand -->
 
 ## Education
 
-- Bachelors in Engg - Electronics - 8.6 CGPA
-      - Madras Institute of Technology, 2006 - 2010
-- 12th Grade - 95% | 10th Grade - 92%
-      - State Topper in Physical Science paper (50/50), 2006 TN Engineering Entrance Exam
-<hr>
-<div style="page-break-after: always;"></div>
+- Bachelors in Engg - Electronics - 8.6 CGPA | Madras Institute of Technology, 2006 - 2010
+- 12th Grade - 95% | 10th Grade - 92% | State Topper in Physical Science paper (50/50), 2006 TN Engineering Entrance Exam
 
 ## Technical Upskilling
 
@@ -80,7 +76,7 @@ hand -->
 - [GCP Big Data & ML Fundamentals](https://www.coursera.org/account/accomplishments/verify/7WU5RTGFUP59), Coursera-Google, Apr'21 
 - [SQL (GCP BigQuery) Fundamentals](https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Kaggle_Learn/SQL), Kaggle Learn, Feb'22
 
-<hr>
+<div style="page-break-after: always;"></div>
 
 
 ### Skills
@@ -90,14 +86,14 @@ hand -->
 - **Python Libraries**
     - Pandas, SpaCy, Re (Regular Expressions), Transformers, Sklearn, PyTorch, OpenAI, LangChain
 - **Tools**
-    - Git,AWS CLI, Docker, Pipenv (& other Python env management tools), AWS Serverless, OpenAI, ChatGPT, Prompt Engineering
+    - Git, AWS CLI, Docker, Python Env Management Tools, AWS Serverless, OpenAI API, Prompt Engineering
 
 <hr>
 
 ## Key Projects
 
-### Building a Multi-Agent Collaborative (MAC) Chat Application | 2024
-- Leading the development of a MAC Chat application that leverages GPT 4o model
+### Built a Multi-Agent Collaborative (MAC) Chat Application | 2024
+- Led the development of a MAC Chat application that leverages GPT 4o model
 - The chat app integrates with tools and databases to provide intelligent responses to user queries.
 
 <hr>
