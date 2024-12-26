@@ -63,7 +63,8 @@ hand -->
 ## Education
 
 - Bachelors in Engg - Electronics - 8.6 CGPA | Madras Institute of Technology, 2006 - 2010
-- 12th Grade - 95% | 10th Grade - 92% | State Topper in Physical Science paper (50/50), 2006 TN Engineering Entrance Exam
+- State Topper in Physical Science paper (50/50) 2006 TN Engineering Entrance Exam
+- 12th Grade - 95% | 10th Grade - 92%
 
 ## Technical Upskilling
 
@@ -92,8 +93,8 @@ hand -->
 
 ## Key Projects
 
-### Built a Multi-Agent Collaborative (MAC) Chat Application | 2024
-- Led the development of a MAC Chat application that leverages GPT 4o model
+### Built a Agentic Chat Application | 2024
+- Led & contributed to the development of an Agentic Chat application that leverages GPT 4o model
 - The chat app integrates with tools and databases to provide intelligent responses to user queries.
 
 <hr>
@@ -101,10 +102,10 @@ hand -->
 ### Built a GenAI Platform (X) with a Suite of Applications in AWS  | 2024
 
 - Led the development of a unified platform to derive actionable insights from text data
-- Key products:
+- Key products built via LLM-powered Pipelines:
     - xWorkFlow - Workflow automation tool with a YAML-based prompt engineering system for LLM chaining.
     - xChat - Secure answer engine for customer data interaction
-    - xCall Center Solutions – Call center dashboard showcasing metrics from agent-customer interactions via LLM-powered pipelines
+    - xCall Center Solutions – Call center dashboard showcasing metrics from agent-customer interactions 
 
 <hr>
 
