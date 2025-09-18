@@ -7,7 +7,7 @@ line. It is intended to be used for contact details -->
 - +91-984-186-9609
 - <a href="https://github.com/senthilkumarm1901">GitHub</a>
 - <a href="https://linkedin.com/in/senthilkumarm1901">LinkedIn</a>
-- <a href="https://senthilkumarm1901.quarto.pub/learn-by-blogging/blog.html">Blog</a>
+- <a href="https://senthilkumarm1901.github.io/learn_by_blogging/blog.html">Blog</a>
 - <a href="https://medium.com/@senthilkumar.m1901">Medium</a>
 - Chennai, India
 
