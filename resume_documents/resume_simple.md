@@ -52,13 +52,16 @@ hand -->
 ## Career Progression & Performance Awards
 
 
-| <small>Company</small> | <small>Position Change</small> | <small>Years since joining</small> | <small>Awards/Recognitions</small> |
-|---|:---:|:---:|:---:|
-| <small>**Toyota**</small> | <small>Senior ML Engineer<br>to Lead ML Engineer</small> | <small>1.5 years</small> | <small>1. Employee of the Month (Sep'23) <br>[ 2. Hackathon Team Winner (Mar'23) ]( https://www.linkedin.com/in/senthilkumarm1901/overlay/1635525610176/single-media-viewer/?type=IMAGE&profileId=ACoAAATq1osBqc8lOFfyHez80LEcCW3RgsF6U0s )<br>[ 3. Secured 2nd place in AWS India Mfg Teams Hackathon 2024 ]( https://www.linkedin.com/in/senthilkumarm1901/overlay/1720866553648/single-media-viewer/?type=IMAGE&profileId=ACoAAATq1osBqc8lOFfyHez80LEcCW3RgsF6U0s )</small> |
-| <small>**Ford**</small> | <small>Senior Data Scientist<br>to Lead Data Scientist</small> | <small>1.5 years</small> | <small>Asia-Pacific Recognition Award (May'19)</small> |
-| <small>**LatentView**</small> | <small>Senior Analyst<br>to Assistant Manager</small> | <small>2.5 years</small> | <small>Encore Award (Jul-Sep 2016 quarter)</small> |
-| <small>**Beroe**</small> | <small>Promoted twice</small> | <small>3.5 years</small> | <small>Knowledge Contributor Awards (twice in 2013)</small> |
+| Company | Awards / Recognitions |
+|--------|------------------------|
+| **Toyota** | • Employee of the Month (Sep 2023)<br>• [Hackathon Team Winner (Mar 2023)](https://www.linkedin.com/in/senthilkumarm1901/overlay/1635525610176/single-media-viewer/?type=IMAGE&profileId=ACoAAATq1osBqc8lOFfyHez80LEcCW3RgsF6U0s)<br>• [2nd Place – AWS India Manufacturing Teams Hackathon 2024](https://www.linkedin.com/in/senthilkumarm1901/overlay/1720866553648/single-media-viewer/?type=IMAGE&profileId=ACoAAATq1osBqc8lOFfyHez80LEcCW3RgsF6U0s)<br>• [DriveDesign’25 Winner](https://www.linkedin.com/in/senthilkumarm1901/details/featured/1746467570983/single-media-viewer/?type=LINK&profileId=ACoAAATq1osBqc8lOFfyHez80LEcCW3RgsF6U0s) |
+| **Ford** | • Asia-Pacific Recognition Award (May 2019) |
+| **LatentView** | • Encore Award (Jul–Sep 2016 Quarter) |
+| **Beroe** | • Knowledge Contributor Award (twice, 2013) |
 
+<br>
+
+- 👀 Curious what have I been cooking lately? 🔗 [LinkedIn Featured Section](linkedin.com/in/senthilkumarm1901/details/featured/) 
 
 ## Education
 
@@ -68,14 +71,14 @@ hand -->
 
 ## Technical Upskilling
 
-### Online Courses
+- [Course on Modern AI Agents](https://www.credly.com/badges/ee1014ff-a7d4-4f42-b8b5-234ea5d230a2/public_url), O'Reilly, Aug'25
+- [A Short Course on Building Apps with Anthropic's MCP](https://learn.deeplearning.ai/accomplishments/8320cb12-9b43-41f0-98f8-1f017205c27e?usp=sharing), DeepLearning.AI, Jun'25
+- [A Proctored Exam on Git](https://www.credly.com/badges/aa76e1a3-877b-4f39-ba68-f4447bc05d18), Linux Foundation, Jan'25
 - [DevOps on AWS Specialization(4 courses)](https://www.coursera.org/account/accomplishments/specialization/8C4UT7FUAZET), Coursera-AWS, Oct'24
 - [Generative AI with LLMs](https://www.coursera.org/account/accomplishments/certificate/JJT4AJ23TCXH), Coursera-Deeplearning.ai, Nov'23
 - [DeepLearning Specialization(5 courses)](https://www.coursera.org/account/accomplishments/specialization/Z9PBLFGG48SM), Coursera-Deeplearning.ai, Dec'18 - May'19
-- [ML Fundamentals for Structured Data (2 courses)](https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Kaggle_Learn/machine_learning_courses), Kaggle Learn, Jan-Feb'22
-- [Applied Text Mining (2 courses)](https://www.coursera.org/account/accomplishments/certificate/MVJKAKWVLSUD), Coursera-MichiganUniv, Jan'18
-- [GCP Big Data & ML Fundamentals](https://www.coursera.org/account/accomplishments/verify/7WU5RTGFUP59), Coursera-Google, Apr'21 
-- [SQL (GCP BigQuery) Fundamentals](https://github.com/senthilkumarm1901/MyCourseWorkNotes/tree/master/Kaggle_Learn/SQL), Kaggle Learn, Feb'22
+
+- 👀 Curious to know my full list? - [LinkedIn Courses Section](https://www.linkedin.com/in/senthilkumarm1901/details/certifications/)
 
 <div style="page-break-after: always;"></div>
 
@@ -92,6 +95,13 @@ hand -->
 <hr>
 
 ## Key Projects
+
+### Learn by Blogging | 35+ Articles | 2020 - Present | <small><small>[Blog Link](https://senthilkumarm1901.github.io/learn_by_blogging/blog.html)</small></small>
+
+- Have been passionately learning and writing about coding, data science and ML since 2020 [here](https://senthilkumarm1901.github.io/learn_by_blogging/blog.html)
+- Cross-post 5+ of those articles in Medium (including Toyota Medium Channel): [Medium Link](https://medium.com/@senthilkumar.m1901)
+
+<hr>
 
 ### Built a Agentic Chat Application | 2024
 - Led & contributed to the development of an Agentic Chat application that leverages GPT 4o model
@@ -130,11 +140,5 @@ hand -->
 ### Personally Identifiable Information (PII) Detection using Named Entity Recognition (NER) | 2020-21 <small><small>[More Details](https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/pii_ner.md)</small></small>
 
 - Annonymized PII in text data by building a NER system using **RoBerta Fine-tuned Transformer model**
-
-<hr>
-
-### Learn by Blogging | 25+ Articles | 2020 - Present | <small><small>[Blog Link](https://senthilkumarm1901.github.io/learn_by_blogging/blog.html)</small></small>
-
-- Have been passionately learning and writing about coding, data science and ML since 2020 [here](https://senthilkumarm1901.github.io/learn_by_blogging/blog.html)
 
 <hr>
