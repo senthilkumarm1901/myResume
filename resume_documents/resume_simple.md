@@ -133,8 +133,8 @@ hand -->
 
 <hr>
 
-### Learn by Blogging | 25+ Articles | 2020 - Present | <small><small>[Blog Link](https://senthilkumarm1901.quarto.pub/learn-by-blogging/)</small></small>
+### Learn by Blogging | 25+ Articles | 2020 - Present | <small><small>[Blog Link](https://senthilkumarm1901.github.io/learn_by_blogging/blog.html)</small></small>
 
-- Have been passionately learning and writing about coding, data science and ML since 2020 [here](https://senthilkumarm1901.quarto.pub/learn-by-blogging/)
+- Have been passionately learning and writing about coding, data science and ML since 2020 [here](https://senthilkumarm1901.github.io/learn_by_blogging/blog.html)
 
 <hr>
