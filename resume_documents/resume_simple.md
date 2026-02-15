@@ -1,5 +1,5 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Senthil Kumar
+# Senthil Kumar, Applied AI & Cloud Engineer
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
@@ -14,17 +14,19 @@ line. It is intended to be used for contact details -->
 <hr>
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-- An ML Engineer capable of building NLP applications leveraging deep learning models 
-- An AWS Cloud Engineer specialized in developing & deploying event-driven Serverless architectures
-- A Generative AI Engineer immersed in the development of agentic apps and LLM api-powered products
-- Total Exp: 14 years; Data Science & NLP Exp: 10/14 years; Cloud Engineering: 4/14 years
+🧢 👒 The hats I wear as an Applied AI Engineer: 
+- An AWS Cloud Engineer: Architect & deploy backend AI systems in AWS
+- A Generative AI Engineer: Build agentic apps and LLM-powered products
+- An ML Engineer: Leverage self-hosted deep learning for inferencing in NLP applications
 
 ## Work Experience
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 ### <span>Lead ML Engineer, [Toyota Connected India](https://www.linkedin.com/company/toyota-connected-india-pvt-ltd)</span> <span>Jul 2022 -- Present </span>
-- Build BackEnd data pipelines and NLP applications in AWS cloud to aid Connected Car customers 
+- Build production-grade LLM-workflows, RAGs and Agentic GenAI applications
+- Design event-driven serverless systems on AWS (Lambda, API Gateway, DynamoDB, etc.).
+- Lead a group of BE & FE engineers in AI & cloud projects
 - Published [4 articles in TCIN medium](https://medium.com/@senthilkumar.m1901) channel 
 - Presented a seminar on [Serverless Python App](https://toyota-connected-india.github.io/serverless_nlp_app/notebook/serverless_nlp_python_app_slides.slides.html#/) in PyCon2023 
 
@@ -71,8 +73,9 @@ hand -->
 
 ## Technical Upskilling
 
-- [Course on Modern AI Agents](https://www.credly.com/badges/ee1014ff-a7d4-4f42-b8b5-234ea5d230a2/public_url), O'Reilly, Aug'25
-- [A Short Course on Building Apps with Anthropic's MCP](https://learn.deeplearning.ai/accomplishments/8320cb12-9b43-41f0-98f8-1f017205c27e?usp=sharing), DeepLearning.AI, Jun'25
+- [A 3-Course Specialization on AWS GenAI & Bedrock](https://www.coursera.org/account/accomplishments/specialization/certificate/6KKNR69B1UDI), Coursera-AWS, Jan'26
+- [Modern AI Agents](https://www.credly.com/badges/ee1014ff-a7d4-4f42-b8b5-234ea5d230a2/public_url), O'Reilly, Aug'25
+- [Building Apps with Anthropic's MCP](https://learn.deeplearning.ai/accomplishments/8320cb12-9b43-41f0-98f8-1f017205c27e?usp=sharing), DeepLearning.AI, Jun'25
 - [A Proctored Exam on Git](https://www.credly.com/badges/aa76e1a3-877b-4f39-ba68-f4447bc05d18), Linux Foundation, Jan'25
 - [DevOps on AWS Specialization(4 courses)](https://www.coursera.org/account/accomplishments/specialization/8C4UT7FUAZET), Coursera-AWS, Oct'24
 - [Generative AI with LLMs](https://www.coursera.org/account/accomplishments/certificate/JJT4AJ23TCXH), Coursera-Deeplearning.ai, Nov'23
@@ -88,9 +91,9 @@ hand -->
 - **Languages** 
     - Python, SQL(basics), Markdown, Bash/Shell Scripting
 - **Python Libraries**
-    - Pandas, SpaCy, Re (Regular Expressions), Transformers, Sklearn, PyTorch, OpenAI, LangChain
+    - Pandas, SpaCy, Re (Regular Expressions), Transformers, Sklearn, PyTorch, OpenAI, LangGraph
 - **Tools**
-    - Git, AWS CLI, Docker, Python Env Management Tools, AWS Serverless, OpenAI API, Prompt Engineering
+    - Git, AWS CLI, Docker, Python Env Management Tools, AWS Serverless, OpenAI API, Prompt Engineering, AWS Bedrock
 
 <hr>
 
@@ -103,23 +106,36 @@ hand -->
 
 <hr>
 
-### Built a Agentic Chat Application | 2024
-- Led & contributed to the development of an Agentic Chat application that leverages GPT 4o model
-- The chat app integrates with tools and databases to provide intelligent responses to user queries.
+### Agentic RAG Application | 2025 <small><small>[More Details](https://github.com/senthilkumarm1901/myResume/blob/main/resume_documents/projects_more_details.md)</small></small>
+
+- Implemented AWS Bedrock–based agentic architecture, integrating LLMs with OpenAPI Action Groups, MCP tool execution, and PostgreSQL data sources to enable secure, production-grade tool-augmented inference.
+- Developed Agentic RAG application using Claude Opus model with
+    - AWS Bedrock powering the planning, reasoning, and reflection loops, and conversation memory, and 
+    - OpenSearch for vector database knowledgebase, and semantic retrieval 
 
 <hr>
 
-### Built a GenAI Platform (X) with a Suite of Applications in AWS  | 2024
+### GenAI Platform (X) with a Suite of Applications in AWS  | 2024-25
 
 - Led the development of a unified platform to derive actionable insights from text data
 - Key products built via LLM-powered Pipelines:
     - xWorkFlow - Workflow automation tool with a YAML-based prompt engineering system for LLM chaining.
-    - xChat - Secure answer engine for customer data interaction
-    - xCall Center Solutions – Call center dashboard showcasing metrics from agent-customer interactions 
+    - xAgenticChat - Secure answer engine for customer data interaction
+    - xAnalyticsDashboard – Call center dashboard showcasing metrics from agent-customer interactions 
+
+<hr>
+
+
+### A Restricted Template Chatbot System powered by GenAI | 2025-26
+
+- Build a restricted, template-based chatbot system enables reliability, control, and explainability, the key attributes missing in today’s generative chatbots.
+- Developed a 7-node workflow prototype AI agent powered by state machine and template-based responses
+
 
 <hr>
 
 ### Serverless LLM-powered Classification Application | 2023
+
 - Leveraged OpenAI paid models (such as GPT-4)  to perform hierarchical text classification
 - Utilised AWS Lambda functions to throttle the OpenAI API calls at scale
 
