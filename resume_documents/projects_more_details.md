@@ -1,9 +1,10 @@
 ## Key Projects and their Architectures
 
 ### Agentic RAG Application | 2025
-- Led & contributed to the development of an Agentic RAG application 
-- The chat app integrates with tools and databases to provide intelligent responses to user queries.
-
+- Developed Agentic RAG application using Claude Opus model with
+    - AWS Bedrock powering the planning, reasoning, and reflection loops, and conversation memory, and 
+    - AWS OpenSearch for vector database knowledgebase, and semantic retrieval 
+- Extended the RAG architecture with tool integration: Integrated the Agent with OpenAPI-based Bedrock Action Groups, MCP tool execution, and PostgreSQL data sources to enable secure, production-grade tool-augmented inference.
 
 **How the Agentic RAG Application Works**:
 

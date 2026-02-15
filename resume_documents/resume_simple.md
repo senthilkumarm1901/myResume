@@ -54,14 +54,14 @@ hand -->
 
 | Company | Awards / Recognitions |
 |--------|------------------------|
-| **Toyota** | • Employee of the Month (Sep 2023)<br>• [Hackathon Team Winner (Mar 2023)](https://www.linkedin.com/in/senthilkumarm1901/overlay/1635525610176/single-media-viewer/?type=IMAGE&profileId=ACoAAATq1osBqc8lOFfyHez80LEcCW3RgsF6U0s)<br>• [2nd Place – AWS India Manufacturing Teams Hackathon 2024](https://www.linkedin.com/in/senthilkumarm1901/overlay/1720866553648/single-media-viewer/?type=IMAGE&profileId=ACoAAATq1osBqc8lOFfyHez80LEcCW3RgsF6U0s)<br>• [DriveDesign’25 Winner](https://www.linkedin.com/in/senthilkumarm1901/details/featured/1746467570983/single-media-viewer/?type=LINK&profileId=ACoAAATq1osBqc8lOFfyHez80LEcCW3RgsF6U0s) |
+| **Toyota** | • Employee of the Month (Sep 2023)<br>• Hackathon Team Winner (Mar 2023)<br>• 2nd Place – AWS India Manufacturing Teams Hackathon 2024<br>• DriveDesign’25 Winner |
 | **Ford** | • Asia-Pacific Recognition Award (May 2019) |
 | **LatentView** | • Encore Award (Jul–Sep 2016 Quarter) |
 | **Beroe** | • Knowledge Contributor Award (twice, 2013) |
 
 <br>
 
-- 👀 Curious what have I been cooking lately? 🔗 [LinkedIn Featured Section](linkedin.com/in/senthilkumarm1901/details/featured/) 
+- 👀 Curious what have I been cooking lately? 🔗 [LinkedIn Featured Section](https://www.linkedin.com/in/senthilkumarm1901/details/featured/) 
 
 ## Education
 
