@@ -1,5 +1,5 @@
 <!-- The (first) h1 will be used as the <title> of the HTML page -->
-# Senthil Kumar, Applied AI & Cloud Engineer
+# Senthil Kumar, Applied AI Engineer
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
@@ -15,6 +15,7 @@ line. It is intended to be used for contact details -->
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
 🧢 👒 The hats I wear as an Applied AI Engineer: 
+
 - An AWS Cloud Engineer: Architect & deploy backend AI systems in AWS
 - A Generative AI Engineer: Build agentic apps and LLM-powered products
 - An ML Engineer: Leverage self-hosted deep learning for inferencing in NLP applications
@@ -30,21 +31,18 @@ hand -->
 - Published [4 articles in TCIN medium](https://medium.com/@senthilkumar.m1901) channel 
 - Presented a seminar on [Serverless Python App](https://toyota-connected-india.github.io/serverless_nlp_app/notebook/serverless_nlp_python_app_slides.slides.html#/) in PyCon2023 
 
-<br>
 
 ### <span>Lead Data Scientist, [Ford](https://www.linkedin.com/company/ford-motor-company), Analytics Team</span> <span>May 2018 -- Jun 2022</span>
 
 - A hands-on **data science developer** who co-developed with NLP experts from the US team
 - Leveraged open source models for inferencing in dockerized NLP applications
 
-<br>
 
 ### <span>Assistant Manager, [LatentView Analytics (LV)](https://in.linkedin.com/company/latentview-analytics)</span> <span>Apr 2014 -- Apr 2018</span>
 
 - Roles I played: **NLP Data Scientist**, **Project Delivery Manager**
 - Responsible for project scoping and accountable for the delivery of Social Media Analytics projects of 8+ members
 
-<br>
 
 ### <span>Lead Analyst, [Beroe Inc](https://in.linkedin.com/company/beroe-inc)</span> <span>Jul 2010 -- Dec 2013 </span>
 - Produce Market Research reports on how to procure indirect spend categories
@@ -74,16 +72,13 @@ hand -->
 ## Technical Upskilling
 
 - [A 3-Course Specialization on AWS GenAI & Bedrock](https://www.coursera.org/account/accomplishments/specialization/certificate/6KKNR69B1UDI), Coursera-AWS, Jan'26
-- [Modern AI Agents](https://www.credly.com/badges/ee1014ff-a7d4-4f42-b8b5-234ea5d230a2/public_url), O'Reilly, Aug'25
-- [Building Apps with Anthropic's MCP](https://learn.deeplearning.ai/accomplishments/8320cb12-9b43-41f0-98f8-1f017205c27e?usp=sharing), DeepLearning.AI, Jun'25
+- [Modern AI Agents](https://www.credly.com/badges/ee1014ff-a7d4-4f42-b8b5-234ea5d230a2/public_url), O'Reilly, Aug'25 | [Building Apps with Anthropic's MCP](https://learn.deeplearning.ai/accomplishments/8320cb12-9b43-41f0-98f8-1f017205c27e?usp=sharing), DeepLearning.AI, Jun'25
 - [A Proctored Exam on Git](https://www.credly.com/badges/aa76e1a3-877b-4f39-ba68-f4447bc05d18), Linux Foundation, Jan'25
 - [DevOps on AWS Specialization(4 courses)](https://www.coursera.org/account/accomplishments/specialization/8C4UT7FUAZET), Coursera-AWS, Oct'24
 - [Generative AI with LLMs](https://www.coursera.org/account/accomplishments/certificate/JJT4AJ23TCXH), Coursera-Deeplearning.ai, Nov'23
 - [DeepLearning Specialization(5 courses)](https://www.coursera.org/account/accomplishments/specialization/Z9PBLFGG48SM), Coursera-Deeplearning.ai, Dec'18 - May'19
 
 - 👀 Curious to know my full list? - [LinkedIn Courses Section](https://www.linkedin.com/in/senthilkumarm1901/details/certifications/)
-
-<div style="page-break-after: always;"></div>
 
 
 ### Skills
@@ -99,19 +94,18 @@ hand -->
 
 ## Key Projects
 
-### Learn by Blogging | 35+ Articles | 2020 - Present | <small><small>[Blog Link](https://senthilkumarm1901.github.io/learn_by_blogging/blog.html)</small></small>
+### Learn by Blogging | 35+ Articles | 2020 - Present 
 
-- Have been passionately learning and writing about coding, data science and ML since 2020 [here](https://senthilkumarm1901.github.io/learn_by_blogging/blog.html)
-- Cross-post 5+ of those articles in Medium (including Toyota Medium Channel): [Medium Link](https://medium.com/@senthilkumar.m1901)
+- Have been passionately writing about coding, GenAI, Cloud and ML since 2020 [here](https://senthilkumarm1901.github.io/learn_by_blogging/blog.html) and in [Medium](https://medium.com/@senthilkumar.m1901)
 
 <hr>
 
 ### Agentic RAG Application | 2025 <small><small>[More Details](https://github.com/senthilkumarm1901/myResume/blob/main/resume_documents/projects_more_details.md)</small></small>
 
-- Implemented AWS Bedrock–based agentic architecture, integrating LLMs with OpenAPI Action Groups, MCP tool execution, and PostgreSQL data sources to enable secure, production-grade tool-augmented inference.
 - Developed Agentic RAG application using Claude Opus model with
     - AWS Bedrock powering the planning, reasoning, and reflection loops, and conversation memory, and 
-    - OpenSearch for vector database knowledgebase, and semantic retrieval 
+    - AWS OpenSearch for vector database knowledgebase, and semantic retrieval 
+- Extended the RAG architecture with tool integration: Integrated the Agent with OpenAPI-based Bedrock Action Groups, MCP tool execution, and PostgreSQL data sources to enable secure, production-grade tool-augmented inference.
 
 <hr>
 
@@ -130,7 +124,6 @@ hand -->
 
 - Build a restricted, template-based chatbot system enables reliability, control, and explainability, the key attributes missing in today’s generative chatbots.
 - Developed a 7-node workflow prototype AI agent powered by state machine and template-based responses
-
 
 <hr>
 
