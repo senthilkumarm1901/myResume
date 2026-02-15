@@ -103,9 +103,9 @@ hand -->
 ### Agentic RAG Application | 2025 <small><small>[More Details](https://github.com/senthilkumarm1901/myResume/blob/main/resume_documents/projects_more_details.md)</small></small>
 
 - Developed Agentic RAG application using Claude Opus model with
-    - AWS Bedrock powering the planning, reasoning, and reflection loops, and conversation memory, and 
+    - AWS Bedrock Agent powering the planning, reasoning, and reflection loops, and conversation memory, and 
     - AWS OpenSearch for vector database knowledgebase, and semantic retrieval 
-- Extended the RAG architecture with tool integration: Integrated the Agent with OpenAPI-based Bedrock Action Groups, MCP tool execution, and PostgreSQL data sources to enable secure, production-grade tool-augmented inference.
+- Extended the RAG architecture with MCP-tool execution to enable secure, production-grade tool-augmented inference | [More Details](https://github.com/senthilkumarm1901/myResume/blob/main/resume_documents/projects_more_details.md)
 
 <hr>
 
@@ -122,8 +122,8 @@ hand -->
 
 ### A Restricted Template Chatbot System powered by GenAI | 2025-26
 
-- Build a restricted, template-based chatbot system enables reliability, control, and explainability, the key attributes missing in today’s generative chatbots.
-- Developed a 7-node workflow prototype AI agent powered by state machine and template-based responses
+- Built a restricted, template-based chatbot system enables reliability, control, and explainability, the key attributes missing in today’s generative chatbots.
+- Developed a 7-node workflow prototype LangGraph AI agent powered by state machine and template-based responses
 
 <hr>
 
