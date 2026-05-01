@@ -14,11 +14,12 @@ line. It is intended to be used for contact details -->
 <hr>
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-🧢 👒 The hats I wear as an Applied AI Engineer: 
+- 🧢 👒 The hats I wear as an Applied AI Engineer: 
+    - An AWS Cloud Engineer: Architect & deploy backend AI systems in AWS
+    - A Generative AI Engineer: Build agentic apps and LLM-powered products
+    - An ML Engineer: Leverage self-hosted deep learning for inferencing in NLP applications
 
-- An AWS Cloud Engineer: Architect & deploy backend AI systems in AWS
-- A Generative AI Engineer: Build agentic apps and LLM-powered products
-- An ML Engineer: Leverage self-hosted deep learning for inferencing in NLP applications
+- ✍️ Passionate learner and technical writer: Writes at [senthilkumarm1901.github.io](https://senthilkumarm1901.github.io/learn_by_blogging/blog.html) and on [Medium](https://medium.com/@senthilkumar.m1901)
 
 ## Work Experience
 
@@ -28,8 +29,8 @@ hand -->
 - Build production-grade LLM-workflows, RAGs and Agentic GenAI applications
 - Design event-driven serverless systems on AWS (Lambda, API Gateway, DynamoDB, etc.).
 - Lead a group of BE & FE engineers in AI & cloud projects
-- Published [4 articles in TCIN medium](https://medium.com/@senthilkumar.m1901) channel 
-- Presented a seminar on [Serverless Python App](https://toyota-connected-india.github.io/serverless_nlp_app/notebook/serverless_nlp_python_app_slides.slides.html#/) in PyCon2023 
+- Have published [4 articles in TCIN medium](https://medium.com/@senthilkumar.m1901) channel 
+- Have delivered a Talk on [Serverless Python App](https://toyota-connected-india.github.io/serverless_nlp_app/notebook/serverless_nlp_python_app_slides.slides.html#/) in PyCon2023 
 
 
 ### <span>Lead Data Scientist, [Ford](https://www.linkedin.com/company/ford-motor-company), Analytics Team</span> <span>May 2018 -- Jun 2022</span>
@@ -48,26 +49,17 @@ hand -->
 - Produce Market Research reports on how to procure indirect spend categories
 
 
+## Performance Awards
 
-## Career Progression & Performance Awards
-
-
-| Company | Awards / Recognitions |
-|--------|------------------------|
-| **Toyota** | • Employee of the Month (Sep 2023)<br>• Hackathon Team Winner (Mar 2023)<br>• 2nd Place – AWS India Manufacturing Teams Hackathon 2024<br>• DriveDesign’25 Winner |
-| **Ford** | • Asia-Pacific Recognition Award (May 2019) |
-| **LatentView** | • Encore Award (Jul–Sep 2016 Quarter) |
-| **Beroe** | • Knowledge Contributor Award (twice, 2013) |
-
-<br>
-
-- 👀 Curious what have I been cooking lately? 🔗 [LinkedIn Featured Section](https://www.linkedin.com/in/senthilkumarm1901/details/featured/) 
+- **Toyota** – Employee of the Month (Sep 2023); Hackathon Team Winner (Mar 2023); 2nd place, AWS India Manufacturing Teams Hackathon 2024; Winner, DriveDesign’25 & AWS Game Day Security Event '26
+- **Ford** – Asia-Pacific Recognition Award (May 2019)
+- **LatentView** – Encore Award (Jul–Sep 2016 Quarter)
+- **Beroe** – Knowledge Contributor Award (twice, 2013)
 
 ## Education
 
 - Bachelors in Engg - Electronics - 8.6 CGPA | Madras Institute of Technology, 2006 - 2010
-- State Topper in Physical Science paper (50/50) 2006 TN Engineering Entrance Exam
-- 12th Grade - 95% | 10th Grade - 92%
+- State Topper in 2006 TN Engineering Entrance Exam (Physical Science 50/50); 12th Grade 95%, 10th Grade 92%
 
 ## Technical Upskilling
 
@@ -78,19 +70,19 @@ hand -->
 - [Generative AI with LLMs](https://www.coursera.org/account/accomplishments/certificate/JJT4AJ23TCXH), Coursera-Deeplearning.ai, Nov'23
 - [DeepLearning Specialization(5 courses)](https://www.coursera.org/account/accomplishments/specialization/Z9PBLFGG48SM), Coursera-Deeplearning.ai, Dec'18 - May'19
 
-- 👀 Curious to know my full list? - [LinkedIn Courses Section](https://www.linkedin.com/in/senthilkumarm1901/details/certifications/)
-
 
 ### Skills
 
-- **Languages** 
-    - Python, SQL(basics), Markdown, Bash/Shell Scripting
-- **Python Libraries**
-    - Pandas, SpaCy, Re (Regular Expressions), Transformers, Sklearn, PyTorch, OpenAI, LangGraph
-- **Tools**
-    - Git, AWS CLI, Docker, Python Env Management Tools, AWS Serverless, OpenAI API, Prompt Engineering, AWS Bedrock
+- **Languages**: Python, SQL(basics), Markdown, Bash/Shell Scripting
+- **Python Libraries**: Boto3, LangGraph, Strands, FastAPI, PyTorch, Transformers, SpaCy, 
+- **Tools**: Git, AWS CLI/Serverless/Bedrock, Docker, Python Env Management, Agentic Enginering
+<br>
+<br>
+<hr>
+- **👀 Curious what have I been cooking lately?** 🔗 [LinkedIn Featured Section](https://www.linkedin.com/in/senthilkumarm1901/details/featured/)
 
 <hr>
+<br>
 
 ## Key Projects
 
