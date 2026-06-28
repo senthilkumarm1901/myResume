@@ -95,9 +95,9 @@ hand -->
 
 ### xAgents — Enterprise Agentic AI Platform | 2026 | Ongoing 
 
-* **Impact**: Built a desktop-first Agentic AI Platform letting non-developers create, govern, and operate AI agents safely — scaling to 100s–1000s of files per run.
-* **Architecture**: Designed a sandboxed Tauri shell over a Rust core running a GOAP-inspired ReAct loop; agents declared via a 5-file YAML/Markdown spec.
-* **Tech Stack**: Rust (Tokio, `rig`) | Tauri 2 | React + TypeScript + Vite | SQLite | Bedrock · Azure OpenAI · Ollama
+* **Impact**: Building a desktop-first Agentic AI Platform letting non-developers create, govern, and operate AI agents safely — scaling to 100s–1000s of files per run.
+* **Architecture**: React UI → Tauri IPC → Rust BE; Agent Loop inspired by hermes agent loop (refer [hermes doc here](https://hermes-agent.nousresearch.com/docs/developer-guide/agent-loop))
+* **Tech Stack**: Rust | Tauri 2 | React + TypeScript + Vite | SQLite | Bedrock · Azure OpenAI · Ollama
 
 <hr>
 
