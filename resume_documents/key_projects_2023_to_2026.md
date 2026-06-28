@@ -151,3 +151,9 @@ flowchart LR
     L --> D["(Insights Store)"]
     D --> V[Dashboard]
 ```
+
+---
+
+Note: 
+- Older projects before 2023 (especially ones worked at my previous companies) are here:
+ - [github.com/senthilkumarm1901/senthilkumarm1901/tree/main/project_descriptions](https://github.com/senthilkumarm1901/senthilkumarm1901/tree/main/project_descriptions)
