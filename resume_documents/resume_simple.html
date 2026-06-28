@@ -207,66 +207,54 @@ hand -->
 </ul>
 <hr>
 <p><br></p>
-<h2>Key Projects</h2>
+<h2>Key Projects <small><small><a href="https://github.com/senthilkumarm1901/myResume/blob/main/resume_documents/key_projects_2023_to_2026.md">More Details</a></small></small></h2>
 <h3>Learn by Blogging | 35+ Articles | 2020 - Present</h3>
 <ul>
 <li>Have been passionately writing about coding, GenAI, Cloud and ML since 2020 <a href="https://senthilkumarm1901.github.io/learn_by_blogging/blog.html">here</a> and in <a href="https://medium.com/@senthilkumar.m1901">Medium</a></li>
+<li>Example blog posts: <a href="https://medium.com/@senthilkumar.m1901/4-patterns-3-frameworks-1-llm-building-and-evaluating-agentic-ai-patterns-across-langgraph-8f44f29ca519?source=friends_link&amp;sk=591f5e74497a6cef51bbb08d17b8427b">LangGraph, Strands, and Hermes Comparison</a>; <a href="https://medium.com/@senthilkumar.m1901/single-llm-to-agentic-ai-genais-evolution-explained-c0670d8325f3?source=friends_link&amp;sk=d040821d89a7ce8c5e506fde3184c948">Single LLMs to Agentic AI: GenAI Evolution Explained</a>; <a href="https://medium.com/toyota-connected-india/git-masterclass-part-3-mastering-gits-undo-toolkit-reset-rebase-and-revert-d78e3fd05180?source=friends_link&amp;sk=0aae84ba8aa93030d2614d3aa3a337ab">Git: TimeTravel Masterclass</a>; <a href="https://medium.com/toyota-connected-india/leveraging-llms-in-the-cloud-from-selection-to-deployment-with-a-focus-on-model-size-23755946c825?source=friends_link&amp;sk=47d0e6ff5170e19946c6a01db93b339b">Leveraging LLMs in the Cloud</a></li>
 </ul>
 <hr>
 
-<h3>Agentic RAG Application | 2025 <small><small><a href="https://github.com/senthilkumarm1901/myResume/blob/main/resume_documents/projects_more_details.md">More Details</a></small></small></h3>
+<h3>xAgents — Enterprise Agentic AI Platform | 2026 | Ongoing</h3>
 <ul>
-<li>Developed Agentic RAG application using Claude Opus model with<ul>
-<li>AWS Bedrock Agent powering the planning, reasoning, and reflection loops, and conversation memory, and </li>
-<li>AWS OpenSearch for vector database knowledgebase, and semantic retrieval </li>
-</ul>
-</li>
-<li>Extended the RAG architecture with MCP-tool execution to enable secure, production-grade tool-augmented inference | <a href="https://github.com/senthilkumarm1901/myResume/blob/main/resume_documents/projects_more_details.md">More Details</a></li>
+<li><strong>Impact</strong>: Built a desktop-first Agentic AI Platform letting non-developers create, govern, and operate AI agents safely — scaling to 100s–1000s of files per run.</li>
+<li><strong>Architecture</strong>: Designed a sandboxed Tauri shell over a Rust core running a GOAP-inspired ReAct loop; agents declared via a 5-file YAML/Markdown spec.</li>
+<li><strong>Tech Stack</strong>: Rust (Tokio, <code>rig</code>) | Tauri 2 | React + TypeScript + Vite | SQLite | Bedrock · Azure OpenAI · Ollama</li>
 </ul>
 <hr>
 
-<h3>GenAI Platform (X) with a Suite of Applications in AWS  | 2024-25</h3>
+<h3>Restricted-Output Conversational AI Agent | Customer Service Automation | 2025–26</h3>
 <ul>
-<li>Led the development of a unified platform to derive actionable insights from text data</li>
-<li>Key products built via LLM-powered Pipelines:<ul>
-<li>xWorkFlow - Workflow automation tool with a YAML-based prompt engineering system for LLM chaining.</li>
-<li>xAgenticChat - Secure answer engine for customer data interaction</li>
-<li>xAnalyticsDashboard – Call center dashboard showcasing metrics from agent-customer interactions </li>
-</ul>
-</li>
+<li><strong>Impact</strong>: Built a reliable, controlled, explainable customer-service agent validated across three concurrent use cases (booking, recall appointment, new car sales) on one orchestration backbone.</li>
+<li><strong>Architecture</strong>: Designed a two-layer FSM system — YAML-declared FSM decides <em>what</em>, an execution graph does <em>how</em> — with a single <code>context.py</code> as runtime source of truth.</li>
+<li><strong>Tech Stack</strong>: Python | YAML-declared FSM | Node.js + Socket.IO | React + Vite | MongoDB | Azure OpenAI (GPT-4o)</li>
 </ul>
 <hr>
 
-<h3>A Restricted Template Chatbot System powered by GenAI | 2025-26</h3>
+<h3>xPolicyBot — Agentic RAG Chatbot for Enterprise | HR · IT · InfoSec | 2025</h3>
 <ul>
-<li>Built a restricted, template-based chatbot system enables reliability, control, and explainability, the key attributes missing in today’s generative chatbots.</li>
-<li>Developed a 7-node workflow prototype LangGraph AI agent powered by state machine and template-based responses</li>
+<li><strong>Impact</strong>: Delivered a role-aware, multilingual policy assistant with <em>every chunk source-cited</em> — the non-negotiable trust contract for policy guidance.</li>
+<li><strong>Architecture</strong>: Architected an agentic RAG system with planning, reasoning, and reflection loops, extended with MCP-based tool execution so the agent can query structured systems, not just documents.</li>
+<li><strong>Complexity / Trade-offs</strong>: Moved from Bedrock managed agent orchestration (<code>agent-runtime</code>) to self-orchestrated (<code>bedrock agentcore</code>) RAG for finer control over planning, prompts, and cost.</li>
+<li><strong>Tech Stack</strong>: AWS Bedrock (agent runtime, agentcore, Claude Opus) | AWS OpenSearch (vector store) | MCP | OpenAPI / Action Groups | Amazon RDS</li>
 </ul>
 <hr>
 
-<h3>Serverless LLM-powered Classification Application | 2023</h3>
+<h3>xFlow — GenAI Workflow Platform | Internal Productivity Platform | 2024</h3>
 <ul>
-<li>Leveraged OpenAI paid models (such as GPT-4)  to perform hierarchical text classification</li>
-<li>Utilised AWS Lambda functions to throttle the OpenAI API calls at scale</li>
+<li><strong>Impact</strong>: Delivered a role-aware, multilingual policy assistant with <em>every chunk source-cited</em> — the non-negotiable trust provided in the answers</li>
+<li><strong>Architecture</strong>: Architected an agentic RAG system with planning, reasoning, and reflection loops, extended with MCP-based tool execution so the agent can query structured systems, not just documents.</li>
+<li><strong>Complexity / Trade-offs</strong>: Bridged OpenAPI-based tool schemas with the MCP JSON tool schema via an adapter layer — preserving a clean control-plane / data-plane boundary; later moved from managed agent orchestration to self-orchestrated RAG for finer control over planning, prompts, and cost.</li>
+<li><strong>Tech Stack</strong>: AWS Bedrock (agent runtime, Claude Opus) | AWS OpenSearch (vector store) | MCP | OpenAPI / Action Groups | Amazon RDS</li>
 </ul>
 <hr>
 
-<h3>Contact Center Dashboard - A Speech2Text Dashboard Application in AWS | 2022-23</h3>
+<h3>Call Center Analytics Dashboard | Contact Center Intelligence | 2024</h3>
 <ul>
-<li>Architected a Speech-to-Text dashboard in AWS</li>
-<li>Powered by open-source ML models for speaker diarization and speech-to-text processing</li>
-</ul>
-<hr>
-
-<h3>BERT Fine-tuned Aspect-based Sentiment Analysis Pipeline | 2020-21 <small><small><a href="https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/asba.md">More Details</a></small></small></h3>
-<ul>
-<li>Built a ML Classification  Pipeline to convert customer comments into Aspect and Sentiment pairs</li>
-</ul>
-<hr>
-
-<h3>Personally Identifiable Information (PII) Detection using Named Entity Recognition (NER) | 2020-21 <small><small><a href="https://github.com/senthilkumarm1901/senthilkumarm1901/blob/main/project_descriptions/pii_ner.md">More Details</a></small></small></h3>
-<ul>
-<li>Annonymized PII in text data by building a NER system using <strong>RoBerta Fine-tuned Transformer model</strong></li>
+<li><strong>Impact</strong>: Architected a speech-to-insight pipeline turning raw contact-center audio into agent-level performance metrics on a dashboard — replacing manual call-listening sampling with continuous automated analysis.</li>
+<li><strong>Architecture</strong>: Designed a staged pipeline — audio → diarized turn-level transcript → LLM-driven metric extraction → persisted insights → dashboard — with each stage independently swappable.</li>
+<li><strong>Complexity / Trade-offs</strong>: Started with an open-source PoC for diarization + STT and metric extraction; given low call volume, migrated to serverless managed APIs for both stages — cheaper to run, zero infra to maintain, and faster to evolve than self-hosted models.</li>
+<li><strong>Tech Stack</strong>: AWS Transcribe (diarization + STT) | LLM API (metric extraction) | AWS (Lambda · S3) | Dashboard UI</li>
 </ul>
 <hr></div>
 </body>
