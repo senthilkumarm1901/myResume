@@ -120,10 +120,9 @@ hand -->
 
 ### xFlow — GenAI Workflow Platform | Internal Productivity Platform | 2024 
 
-* **Impact**: Delivered a role-aware, multilingual policy assistant with *every chunk source-cited* — the non-negotiable trust provided in the answers
-* **Architecture**: Architected an agentic RAG system with planning, reasoning, and reflection loops, extended with MCP-based tool execution so the agent can query structured systems, not just documents.
-* **Complexity / Trade-offs**: Bridged OpenAPI-based tool schemas with the MCP JSON tool schema via an adapter layer — preserving a clean control-plane / data-plane boundary; later moved from managed agent orchestration to self-orchestrated RAG for finer control over planning, prompts, and cost.
-* **Tech Stack**: AWS Bedrock (agent runtime, Claude Opus) | AWS OpenSearch (vector store) | MCP | OpenAPI / Action Groups | Amazon RDS
+* **Impact**: Led development of a unified GenAI platform used as a shared backbone for multiple apps (policy bot, analytics dashboard, workflow automation), making it much faster and cheaper to launch new AI use cases.
+* **Architecture**: Designed an LLM-chaining engine driven by clear YAML files, built with a single provider gateway and central tracking for retries, costs, and performance.
+* **Tech Stack**: Python | YAML | AWS (Lambda · S3 · Bedrock) | LLM Provider Gateway (Bedrock + Azure OpenAI)
 
 <hr>
 
