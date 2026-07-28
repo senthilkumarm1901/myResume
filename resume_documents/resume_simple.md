@@ -93,9 +93,9 @@ hand -->
 
 <hr>
 
-### xAgents — Enterprise Agentic AI Platform | 2026 | Ongoing 
+### xAgents: Enterprise Agentic AI Platform | 2026 | Ongoing 
 
-* **Impact**: Building a desktop-first Agentic AI Platform letting non-developers create, govern, and operate AI agents safely — scaling to 100s–1000s of files per run.
+* **Impact**: Building a desktop-first Agentic AI Platform letting non-developers create, govern, and operate AI agents safely; scaling to 100s–1000s of files per run.
 * **Architecture**: React UI → Tauri IPC → Rust BE; Agent Loop inspired by [hermes agent loop](https://hermes-agent.nousresearch.com/docs/developer-guide/agent-loop) and architecture similar to Andrew Ng's [OpenWorker](https://github.com/andrewyng/openworker)
 * **Tech Stack**: Rust | Tauri 2 | React + TypeScript + Vite | SQLite | Bedrock · Azure OpenAI · Ollama
 
@@ -109,7 +109,7 @@ hand -->
 
 <hr>
 
-### xPolicyBot — Agentic RAG Chatbot for Enterprise | HR · IT · InfoSec | 2025 
+### xPolicyBot: Agentic RAG Chatbot for Enterprise | HR · IT · InfoSec | 2025 
 
 * **Impact**: Delivered a role-aware, multilingual policy assistant with *every chunk source-cited* for the source of information
 * **Architecture**: Architected an agentic RAG system with planning, reasoning, and reflection loops, extended with MCP-based tool execution so the agent can query structured systems, not just RAG documents.
@@ -118,7 +118,7 @@ hand -->
 
 <hr>
 
-### xFlow — GenAI Workflow Platform | Internal Productivity Platform | 2024 
+### xFlow: GenAI Workflow Platform | Internal Productivity Platform | 2024 
 
 * **Impact**: Led development of a unified GenAI platform used as a shared backbone for multiple apps (policy bot, analytics dashboard, workflow automation), making it much faster and cheaper to launch new GenAI use cases.
 * **Architecture**: Designed an LLM-chaining workflow engine (an alternative to then flaky LangChain) driven by clear YAML files, built central tracking for retries, costs, and performance.
@@ -128,7 +128,7 @@ hand -->
 
 ### Call Center Analytics Dashboard | Contact Center Intelligence | 2024
 
-* **Impact**: Architected a speech-to-insight pipeline turning raw contact-center audio into agent-level performance metrics on a dashboard — replacing manual call-listening sampling with continuous automated analysis.
+* **Impact**: Architected a speech-to-insight pipeline turning raw contact-center audio into agent-level performance metrics on a dashboard, replacing manual call-listening sampling with continuous automated analysis.
 * **Architecture**: Designed a pipeline with each stage independently swappable: audio → (1) diarized turn-level transcript → (2) LLM-driven metric extraction → persisted insights → dashboard.
 * **Complexity / Trade-offs**: Started with an open-source PoC for diarization + STT and metric extraction; 
     * Post a cost-benefit analysis: Given low call volume, migrated to serverless managed APIs for both stages — cheaper to run, zero infra to maintain, and faster to evolve than self-hosted models.
