@@ -51,7 +51,7 @@ hand -->
 
 ## Performance Awards
 
-- **Toyota** – Employee of the Month (Sep 2023); Hackathon Team Winner (Mar 2023); 2nd place, AWS India Manufacturing Teams Hackathon 2024; Winner, DriveDesign’25 & AWS Game Day Security Event '26
+- **Toyota** – Employee of the Month (Sep'23); 2nd place, AWS India Manufacturing Teams Hackathon '24; Winner, DriveDesign’25 & AWS Game Day Security Event '26; Hackcelerate Mar'23 & Jul'26
 - **Ford** – Asia-Pacific Recognition Award (May 2019)
 - **LatentView** – Encore Award (Jul–Sep 2016 Quarter)
 - **Beroe** – Knowledge Contributor Award (twice, 2013)
@@ -96,23 +96,23 @@ hand -->
 ### xAgents — Enterprise Agentic AI Platform | 2026 | Ongoing 
 
 * **Impact**: Building a desktop-first Agentic AI Platform letting non-developers create, govern, and operate AI agents safely — scaling to 100s–1000s of files per run.
-* **Architecture**: React UI → Tauri IPC → Rust BE; Agent Loop inspired by hermes agent loop (refer [hermes doc here](https://hermes-agent.nousresearch.com/docs/developer-guide/agent-loop))
+* **Architecture**: React UI → Tauri IPC → Rust BE; Agent Loop inspired by [hermes agent loop](https://hermes-agent.nousresearch.com/docs/developer-guide/agent-loop) and architecture similar to Andrew Ng's [OpenWorker](https://github.com/andrewyng/openworker)
 * **Tech Stack**: Rust | Tauri 2 | React + TypeScript + Vite | SQLite | Bedrock · Azure OpenAI · Ollama
 
 <hr>
 
 ### Restricted-Output Conversational AI Agent | Customer Service Automation | 2025–26 
 
-* **Impact**: Built a reliable, controlled, explainable customer-service agent validated across three concurrent use cases (booking, recall appointment, new car sales) on one orchestration backbone.
-* **Architecture**: Designed a two-layer FSM system — YAML-declared FSM decides *what*, an execution graph does *how* — with a single `context.py` as runtime source of truth.
+* **Impact**: Built a reliable,explainable, template-controlled customer-service agent validated across three concurrent use cases (booking, recall appointment, new car sales) on one orchestration backbone.
+* **Architecture**: Designed a two-layer Finite State Machine system — YAML-declared FSM decides *what*, an execution graph does *how* — with a single `context.py` as runtime source of truth.
 * **Tech Stack**: Python | YAML-declared FSM | Node.js + Socket.IO | React + Vite | MongoDB | Azure OpenAI (GPT-4o)
 
 <hr>
 
 ### xPolicyBot — Agentic RAG Chatbot for Enterprise | HR · IT · InfoSec | 2025 
 
-* **Impact**: Delivered a role-aware, multilingual policy assistant with *every chunk source-cited* — the non-negotiable trust contract for policy guidance.
-* **Architecture**: Architected an agentic RAG system with planning, reasoning, and reflection loops, extended with MCP-based tool execution so the agent can query structured systems, not just documents.
+* **Impact**: Delivered a role-aware, multilingual policy assistant with *every chunk source-cited* for the source of information
+* **Architecture**: Architected an agentic RAG system with planning, reasoning, and reflection loops, extended with MCP-based tool execution so the agent can query structured systems, not just RAG documents.
 * **Complexity / Trade-offs**: Moved from Bedrock managed agent orchestration (`agent-runtime`) to self-orchestrated (`bedrock agentcore`) RAG for finer control over planning, prompts, and cost.
 * **Tech Stack**: AWS Bedrock (agent runtime, agentcore, Claude Opus) | AWS OpenSearch (vector store) | MCP | OpenAPI / Action Groups | Amazon RDS
 
@@ -120,8 +120,8 @@ hand -->
 
 ### xFlow — GenAI Workflow Platform | Internal Productivity Platform | 2024 
 
-* **Impact**: Led development of a unified GenAI platform used as a shared backbone for multiple apps (policy bot, analytics dashboard, workflow automation), making it much faster and cheaper to launch new AI use cases.
-* **Architecture**: Designed an LLM-chaining engine driven by clear YAML files, built with a single provider gateway and central tracking for retries, costs, and performance.
+* **Impact**: Led development of a unified GenAI platform used as a shared backbone for multiple apps (policy bot, analytics dashboard, workflow automation), making it much faster and cheaper to launch new GenAI use cases.
+* **Architecture**: Designed an LLM-chaining workflow engine (an alternative to then flaky LangChain) driven by clear YAML files, built central tracking for retries, costs, and performance.
 * **Tech Stack**: Python | YAML | AWS (Lambda · S3 · Bedrock) | LLM Provider Gateway (Bedrock + Azure OpenAI)
 
 <hr>
@@ -129,8 +129,9 @@ hand -->
 ### Call Center Analytics Dashboard | Contact Center Intelligence | 2024
 
 * **Impact**: Architected a speech-to-insight pipeline turning raw contact-center audio into agent-level performance metrics on a dashboard — replacing manual call-listening sampling with continuous automated analysis.
-* **Architecture**: Designed a staged pipeline — audio → diarized turn-level transcript → LLM-driven metric extraction → persisted insights → dashboard — with each stage independently swappable.
-* **Complexity / Trade-offs**: Started with an open-source PoC for diarization + STT and metric extraction; given low call volume, migrated to serverless managed APIs for both stages — cheaper to run, zero infra to maintain, and faster to evolve than self-hosted models.
+* **Architecture**: Designed a pipeline with each stage independently swappable: audio → (1) diarized turn-level transcript → (2) LLM-driven metric extraction → persisted insights → dashboard.
+* **Complexity / Trade-offs**: Started with an open-source PoC for diarization + STT and metric extraction; 
+    * Post a cost-benefit analysis: Given low call volume, migrated to serverless managed APIs for both stages — cheaper to run, zero infra to maintain, and faster to evolve than self-hosted models.
 * **Tech Stack**: AWS Transcribe (diarization + STT) | LLM API (metric extraction) | AWS (Lambda · S3) | Dashboard UI
 
 <hr>
