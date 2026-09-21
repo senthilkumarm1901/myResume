@@ -60,10 +60,10 @@ hand -->
 
 ## Technical Upskilling
 
+- [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/verify/PJEEULFCVQD1), Coursera-AWS, Sep'26
 - [A 3-Course Specialization on AWS GenAI & Bedrock](https://www.coursera.org/account/accomplishments/specialization/certificate/6KKNR69B1UDI), Coursera-AWS, Jan'26
 - [Modern AI Agents](https://www.credly.com/badges/ee1014ff-a7d4-4f42-b8b5-234ea5d230a2/public_url), O'Reilly, Aug'25 | [Building Apps with Anthropic's MCP](https://learn.deeplearning.ai/accomplishments/8320cb12-9b43-41f0-98f8-1f017205c27e?usp=sharing), DeepLearning.AI, Jun'25
-- [A Proctored Exam on Git](https://www.credly.com/badges/aa76e1a3-877b-4f39-ba68-f4447bc05d18), Linux Foundation, Jan'25
-- [DevOps on AWS Specialization(4 courses)](https://www.coursera.org/account/accomplishments/specialization/8C4UT7FUAZET), Coursera-AWS, Oct'24
+- [A Proctored Exam on Git](https://www.credly.com/badges/aa76e1a3-877b-4f39-ba68-f4447bc05d18), Linux Foundation, Jan'25 | [DevOps on AWS Specialization(4 courses)](https://www.coursera.org/account/accomplishments/specialization/8C4UT7FUAZET), Coursera-AWS, Oct'24
 - [Generative AI with LLMs](https://www.coursera.org/account/accomplishments/certificate/JJT4AJ23TCXH), Coursera-Deeplearning.ai, Nov'23
 - [DeepLearning Specialization(5 courses)](https://www.coursera.org/account/accomplishments/specialization/Z9PBLFGG48SM), Coursera-Deeplearning.ai, Dec'18 - May'19
 
